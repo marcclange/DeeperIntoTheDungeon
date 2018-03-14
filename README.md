@@ -71,7 +71,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Marc-Clemens Lange** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Marc-Clemens Lange** - *Initial work* - [marcclange](https://github.com/marcclange)
+* **Carl Blasius** - *Graphics* - [NotKarl](https://github.com/notkarl)
+* **Niclas** - *Music* - [Oledomn](https://github.com/oledomn)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
